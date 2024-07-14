@@ -1,0 +1,37 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:bytes@3.1.2": "npm:bytes@3.1.2",
+      "npm:chalk@5.3.0": "npm:chalk@5.3.0",
+      "npm:date-fns@3.6.0": "npm:date-fns@3.6.0",
+      "npm:humanize-duration@3.32.1": "npm:humanize-duration@3.32.1",
+      "npm:systeminformation@5.22.11": "npm:systeminformation@5.22.11"
+    },
+    "npm": {
+      "bytes@3.1.2": {
+        "integrity": "sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==",
+        "dependencies": {}
+      },
+      "chalk@5.3.0": {
+        "integrity": "sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==",
+        "dependencies": {}
+      },
+      "date-fns@3.6.0": {
+        "integrity": "sha512-fRHTG8g/Gif+kSh50gaGEdToemgfj74aRX3swtiouboip5JDLAyDE9F11nHMIcvOaXeOC6D7SpNhi7uFyB7Uww==",
+        "dependencies": {}
+      },
+      "humanize-duration@3.32.1": {
+        "integrity": "sha512-inh5wue5XdfObhu/IGEMiA1nUXigSGcaKNemcbLRKa7jXYGDZXr3LoT9pTIzq2hPEbld7w/qv9h+ikWGz8fL1g==",
+        "dependencies": {}
+      },
+      "systeminformation@5.22.11": {
+        "integrity": "sha512-aLws5yi4KCHTb0BVvbodQY5bY8eW4asMRDTxTW46hqw9lGjACX6TlLdJrkdoHYRB0qs+MekqEq1zG7WDnWE8Ug==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {
+    "https://deno.land/std@0.160.0/fmt/colors.ts": "9e36a716611dcd2e4865adea9c4bec916b5c60caad4cdcdc630d4974e6bb8bd4"
+  }
+}
